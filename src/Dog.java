@@ -1,6 +1,6 @@
 
 public class Dog extends Pet{
-	String dog_sound;
+	String dog_sound = "bark";
 	
 	public Dog(String petName) {
 		super (petName);
